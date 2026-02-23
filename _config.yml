@@ -1,0 +1,41 @@
+# Site settings
+title: Kada Hari Krishna
+description: Forward Deployed Engineer | Full-Stack Developer | AI & LLM Specialist
+url: "https://harikrishnakada.github.io"
+baseurl: ""
+
+# Theme settings
+theme: minima
+
+# Author information
+author:
+  name: Kada Hari Krishna
+  email: harikrishna.kada@gmail.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - experience.md
+  - projects.md
+  - skills.md
+  - certifications.md
+
+# Social media
+github_username: harikrishnakada
+linkedin_username: hari-krishna-kada
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
