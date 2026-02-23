@@ -6,101 +6,199 @@ permalink: /skills/
 
 # Technical Skills
 
+<div class="card">
+
 ## 💻 Programming & Frameworks
 
 ### Backend Technologies
-- **Languages**: C#, Node.js, TypeScript
-- **Frameworks**: .NET 10, .NET Aspire, ASP.NET Core, Web API, MVC, Blazor
-- **Patterns**: Dapr, Entity Framework Core, NHibernate, TDD
+
+<div class="skill-category">
+<span class="skill-item">C#</span>
+<span class="skill-item">.NET 10</span>
+<span class="skill-item">.NET Aspire</span>
+<span class="skill-item">ASP.NET Core</span>
+<span class="skill-item">Web API</span>
+<span class="skill-item">MVC</span>
+<span class="skill-item">Blazor</span>
+<span class="skill-item">Node.js</span>
+<span class="skill-item">Dapr</span>
+<span class="skill-item">Entity Framework Core</span>
+<span class="skill-item">NHibernate</span>
+<span class="skill-item">TDD</span>
+</div>
 
 ### Frontend Technologies
-- **Modern Frameworks**: Angular 21, React.js, Blazor
-- **Core Technologies**: TypeScript, JavaScript, HTML5, CSS3
-- **UI Libraries**: Bootstrap 4, jQuery
+
+<div class="skill-category">
+<span class="skill-item">Angular 21</span>
+<span class="skill-item">React.js</span>
+<span class="skill-item">Blazor</span>
+<span class="skill-item">TypeScript</span>
+<span class="skill-item">JavaScript</span>
+<span class="skill-item">HTML5</span>
+<span class="skill-item">CSS3</span>
+<span class="skill-item">Bootstrap 4</span>
+<span class="skill-item">jQuery</span>
+</div>
+
+</div>
+
+<div class="card">
 
 ## 🤖 AI & Machine Learning
 
 ### LLM & AI Technologies
-- Azure AI Foundry
-- RAG (Retrieval-Augmented Generation) Frameworks
-- LangChain & LangGraph
-- Semantic Kernel
-- ChromaDB
-- Azure Cognitive Search
-- Document Intelligence
+
+<div class="skill-category">
+<span class="skill-item">Azure AI Foundry</span>
+<span class="skill-item">RAG Frameworks</span>
+<span class="skill-item">LangChain</span>
+<span class="skill-item">LangGraph</span>
+<span class="skill-item">Semantic Kernel</span>
+<span class="skill-item">ChromaDB</span>
+<span class="skill-item">Azure Cognitive Search</span>
+<span class="skill-item">Document Intelligence</span>
+</div>
 
 ### AI Applications
-- Agentic AI architecture and workflows
-- Intelligent document analysis and retrieval pipelines
-- AI-augmented software development
-- RAG-based clinical research analysis platforms
+
+- ✨ Agentic AI architecture and workflows
+- ✨ Intelligent document analysis and retrieval pipelines
+- ✨ AI-augmented software development
+- ✨ RAG-based clinical research analysis platforms
+
+</div>
+
+<div class="card">
 
 ## ☁️ Cloud & DevOps
 
 ### Microsoft Azure Services
-- **Identity & Security**: Azure AD, Azure AD B2C, Entra External Identity, Key Vault
-- **Compute**: Azure Functions, Durable Functions, App Service, Container Apps, Azure VM
-- **Data**: Azure SQL Database, Cosmos DB, Azure Storage, Data Factory
-- **Integration**: Service Bus, Logic Apps, SignalR
-- **AI/ML**: Azure AI services, Azure Cognitive Search
-- **DevOps**: Azure DevOps, ACR (Azure Container Registry), Git
-- **Analytics**: Power BI
 
-### Other Cloud Tools
-- Docker
-- CI/CD pipelines
-- Infrastructure as Code
+<div class="skill-category">
+<span class="skill-item">Azure AD</span>
+<span class="skill-item">Azure AD B2C</span>
+<span class="skill-item">Entra External Identity</span>
+<span class="skill-item">Azure Functions</span>
+<span class="skill-item">Durable Functions</span>
+<span class="skill-item">Azure SQL Database</span>
+<span class="skill-item">Cosmos DB</span>
+<span class="skill-item">Azure Storage</span>
+<span class="skill-item">Service Bus</span>
+<span class="skill-item">Logic Apps</span>
+<span class="skill-item">SignalR</span>
+<span class="skill-item">Container Apps</span>
+<span class="skill-item">ACR</span>
+<span class="skill-item">App Service</span>
+<span class="skill-item">Data Factory</span>
+<span class="skill-item">Key Vault</span>
+<span class="skill-item">Azure VM</span>
+<span class="skill-item">Power BI</span>
+<span class="skill-item">Azure DevOps</span>
+</div>
+
+### DevOps & Tools
+
+<div class="skill-category">
+<span class="skill-item">Docker</span>
+<span class="skill-item">CI/CD Pipelines</span>
+<span class="skill-item">Git</span>
+<span class="skill-item">Azure DevOps</span>
+<span class="skill-item">Infrastructure as Code</span>
+</div>
+
+</div>
+
+<div class="card">
 
 ## 🗄️ Databases
 
-- **Relational**: SQL Server, Azure SQL Database
-- **NoSQL**: Cosmos DB, ChromaDB
-- **Caching**: Redis
+<div class="skill-category">
+<span class="skill-item">SQL Server</span>
+<span class="skill-item">Azure SQL Database</span>
+<span class="skill-item">Cosmos DB</span>
+<span class="skill-item">ChromaDB</span>
+<span class="skill-item">Redis</span>
+</div>
+
+</div>
+
+<div class="card">
 
 ## 🛠️ Development Tools
 
 ### IDEs & Editors
-- Visual Studio 2026
-- VS Code
-- SQL Server Management Studio (SSMS)
+
+<div class="skill-category">
+<span class="skill-item">Visual Studio 2026</span>
+<span class="skill-item">VS Code</span>
+<span class="skill-item">SSMS</span>
+</div>
 
 ### Development & Testing Tools
-- Postman
-- Service Bus Explorer
-- Azure Storage Explorer
-- Ollama
-- XUnit (testing framework)
-- Selenium (automation testing)
+
+<div class="skill-category">
+<span class="skill-item">Postman</span>
+<span class="skill-item">Service Bus Explorer</span>
+<span class="skill-item">Azure Storage Explorer</span>
+<span class="skill-item">Ollama</span>
+<span class="skill-item">XUnit</span>
+<span class="skill-item">Selenium</span>
+</div>
+
+</div>
+
+<div class="card">
 
 ## 🌐 Additional Technologies
 
-- **APIs**: MS Graph APIs, RESTful API design
-- **Enterprise**: SharePoint integration
-- **Version Control**: Git, GitHub, Azure DevOps
-- **Compliance**: FDA regulations, GxPs (Good Laboratory/Manufacturing Practices)
+<div class="skill-category">
+<span class="skill-item">MS Graph APIs</span>
+<span class="skill-item">RESTful APIs</span>
+<span class="skill-item">SharePoint</span>
+<span class="skill-item">GitHub</span>
+<span class="skill-item">Power BI</span>
+</div>
 
-## 📊 Specializations
+</div>
 
-### Domain Expertise
-- Clinical Research Management Systems
-- Healthcare & Medical Research platforms
-- Real-time data tracking and reporting
-- Document management and analysis
+<div class="card">
+
+## 📊 Domain Expertise
+
+### Specializations
+
+- 🏥 Clinical Research Management Systems
+- 🔬 Healthcare & Medical Research Platforms
+- 📈 Real-time Data Tracking and Reporting
+- 📄 Document Management and Analysis
+- 🤖 AI-Powered Intelligent Systems
 
 ### Software Engineering Practices
-- Test-Driven Development (TDD)
-- Asynchronous and event-driven architectures
-- Microservices design patterns
-- API-first development
-- Automated testing and CI/CD
-- Data migration and integration
+
+<div class="skill-category">
+<span class="skill-item">Test-Driven Development (TDD)</span>
+<span class="skill-item">Asynchronous Architecture</span>
+<span class="skill-item">Event-Driven Design</span>
+<span class="skill-item">Microservices</span>
+<span class="skill-item">API-First Development</span>
+<span class="skill-item">CI/CD</span>
+<span class="skill-item">Data Migration</span>
+<span class="skill-item">System Integration</span>
+</div>
+
+</div>
 
 ---
 
-## Continuous Learning
+## 📚 Continuous Learning
 
-I'm constantly expanding my skillset, particularly in:
-- Advanced AI/ML techniques and frameworks
-- Modern cloud-native architectures
-- Emerging .NET technologies
-- AI-augmented development workflows
+<div class="skill-category">
+<span class="skill-item">✅ Advanced AI/ML techniques</span>
+<span class="skill-item">✅ Cloud-native architectures</span>
+<span class="skill-item">✅ Emerging .NET technologies</span>
+<span class="skill-item">✅ AI-augmented development workflows</span>
+<span class="skill-item">✅ Modern frontend frameworks</span>
+</div>
+
+I'm constantly expanding my skillset and staying current with the latest technologies and industry best practices.
